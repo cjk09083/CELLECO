@@ -16,10 +16,14 @@
 - 디자인, 웹퍼블리싱 제외 1인개발
 
 ## 기능
-### ㄴㅇㄹ
-- 모니터링 서비스 앱
-- Android(JAVA) => Flutter(Dart) 하이브리드 개발
-- 농장 상태, 그래프, 지도, 작업내역 관리
+### 회원관리
+- 사원 정보 및 게시판별 권한 설정
+<div align="center" >
+<img src="ScreenShot/1-1.%20상세정보.png" width="100%"/>
+</div></br>
+
+
+### 예시
 <div align="center" >
 <img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/0.%20로그인.jpg" width="15%"/>&nbsp;
 <img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/1.%20메인.jpg" width="15%"/>&nbsp;
