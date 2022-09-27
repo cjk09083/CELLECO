@@ -19,7 +19,8 @@
 ### 회원관리
 - 사원 정보 및 게시판별 권한 설정
 <div align="center" >
-<img src="ScreenShot/1-1.%20상세정보.png" width="100%"/>
+<img src="ScreenShot/1.%20회원관리.png" width="45%"/>&nbsp;
+<img src="ScreenShot/1-1.%20상세정보.png" width="45%"/>
 </div></br>
 
 
