@@ -19,17 +19,38 @@
 ### 회원관리
 - 사원 정보 및 게시판별 권한 설정
 <div align="center" >
-<img src="ScreenShot/1.%20회원관리.png" width="45%"/>&nbsp;
-<img src="ScreenShot/1-1.%20상세정보.png" width="45%"/>
+<img src="ScreenShot/1-1.%20상세정보.png" width="80%"/>
 </div></br>
 
-
-### 예시
+### 원료, 부자재등 재료 관리
+- 재료를 직접 입력하거나 엑셀 파일로 한번에 입력 가능
+- 이후 공정에서 자동으로 수량 증감
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/0.%20로그인.jpg" width="15%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/1.%20메인.jpg" width="15%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2.%20장비상태.jpg" width="15%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-2%20그래프%20(일반).jpg" width="15%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-2%20그래프%20(풍향풍속).jpg" width="15%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-3%20대기확산(일반).jpg" width="15%"/>
+<img src="ScreenShot/2.%20원료관리.png" width="45%"/>&nbsp;
+<img src="ScreenShot/2-1%20원료%20정보.png" width="45%"/>
 </div></br>
+
+### 처방전, 재조지시서 관리
+- 원료 목록에서 성분을 검색하여 함량을 입력해 처방전을 제작
+<div align="center" >
+<img src="ScreenShot/3-2%20처방전%20정보.png" width="100%"/>
+</div></br>
+
+- 제품 생산시 처방전을 제조지시서 형태로 활용
+<div align="center" >
+<img src="ScreenShot/3-3%20제조지시서%20정보.png" width="100%"/>
+</div></br>
+
+### 생산 관리
+- 반제품, 완제품 생산시 필요한 원료, 부자재를 자동 차감
+<div align="center" >
+<img src="ScreenShot/4-1%20반제품%20관리.png" width="100%"/>
+</div></br>
+
+- 이후 QC, 출하 관리에서 출하 상태 및 수량 자동 관리
+<div align="center" >
+<img src="ScreenShot/8-2%20완제품%20출하관리.png" width="100%"/>
+</div></br>
+
+
+
