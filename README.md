@@ -19,7 +19,7 @@
 ### 회원관리
 - 사원 정보 및 게시판별 권한 설정
 <div align="center" >
-<img src="ScreenShot/1-1.%20상세정보.png" width="80%"/>
+<img src="ScreenShot/1-1.%20상세정보.png" width="90%"/>
 </div></br>
 
 ### 원료, 부자재등 재료 관리
@@ -27,7 +27,7 @@
 - 이후 공정에서 자동으로 수량 증감
 <div align="center" >
 <img src="ScreenShot/2.%20원료관리.png" width="45%"/>&nbsp;
-<img src="ScreenShot/2-1%20원료%20정보.png" width="45%"/>
+<img src="ScreenShot/2-1%20원료%20정보.png" width="50%"/>
 </div></br>
 
 ### 처방전, 재조지시서 관리
